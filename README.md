@@ -5,4 +5,5 @@ apollo-server basic setup for graphql queries
 
 ### first you create a query data type
 
-### then create a query 
+### then create a schema
+and second branch we have the resolvers to resolve the query in on client machine
